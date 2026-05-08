@@ -1,8 +1,7 @@
-
 # Keyword Extraction System
 
 A complete NLP-based Keyword Extraction System that identifies important keywords and keyphrases from textual data using both traditional and embedding-based approaches.
-![GUI Preview](gui.png)
+
 ---
 
 ## Features
@@ -172,4 +171,5 @@ This allows the GUI to load models directly without retraining.
 
 Developed as an NLP project focused on practical keyword extraction, semantic analysis, and interactive AI deployment using modern NLP techniques.
 
+```
 
