@@ -1,0 +1,11 @@
+keybert
+sentence-transformers
+scikit-learn
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+streamlit
+Pillow
