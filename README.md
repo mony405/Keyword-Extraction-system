@@ -3,7 +3,7 @@
 A complete NLP-based Keyword Extraction System that identifies important keywords and keyphrases from textual data using both traditional and embedding-based approaches.
 
 ---
-
+![GUI Preview](Screenshot 2026-05-09 022849.png)
 ## Features
 
 - TF-IDF Keyword Extraction
